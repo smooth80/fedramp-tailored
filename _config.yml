@@ -38,3 +38,5 @@ collections:
   pages:
     output: true
     #permalink: /:path/
+
+theme: jekyll-theme-architect
